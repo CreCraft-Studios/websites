@@ -1,0 +1,11 @@
+#header
+text=Here you can purchase your own domains
+
+#textfield
+placeholder=Search Domain
+padding=2
+align=left
+width=200
+
+#footer
+text=Copyright, Domains Studios, Inc.
