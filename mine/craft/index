@@ -6,3 +6,6 @@ placeholder=Search Domain
 padding=2
 align=left
 width=10
+
+#footer
+text=Copyright
