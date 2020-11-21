@@ -5,7 +5,7 @@ text=Welcome to craft.mine
 placeholder=Search Domain
 padding=2
 align=left
-width=10
+width=200
 
 #footer
 text=Copyright
