@@ -1,5 +1,7 @@
 #header
 text=Welcome to craft.mine
 
-#textinput
-width=10
+#textfield
+placeholder=Search Domain
+padding=2
+align=left
