@@ -3,7 +3,10 @@ image=https://i.imgur.com/rIzqukr.png
 text=&l&cWebsite Not Found
 
 #paragraph
-text=The web address you have entered &1%domain% &f cannot be found
+text=The web address you have entered &1%domain%
+
+#paragraph
+text=cannot be found
 
 #paragraph
 text=Check to make sure you typed the website address correctly
