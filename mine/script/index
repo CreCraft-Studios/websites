@@ -1,0 +1,10 @@
+#header
+text=Welcome to the script website
+align=center
+
+#script
+set age=5
+#endscript
+
+#paragraph
+text=Your age is %age%
