@@ -1,0 +1,18 @@
+#banner
+image=https://i.imgur.com/rIzqukr.png
+text=&l&Website Not Found
+
+#paragraph
+text=The web address you have entered &1%domain% &f cannot be found
+
+#paragraph
+text=Check to make sure you typed the website address correctly
+
+#divider
+size=27
+
+#footer
+title=404
+sub-title=Website Not Found
+home-page=welcome.official
+color=-12738963
